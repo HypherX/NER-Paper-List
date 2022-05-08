@@ -71,7 +71,7 @@ Nested Named Entity Recognition via Explicitly Excluding the Influence of the Be
 De-biasing Distantly Supervised Named Entity Recognition via Causal Intervention      
 Crowdsourcing Learning as Domain Adaptation: A Case Study on Named Entity Recognition      
 Discontinuous Named Entity Recognition as Maximal Clique Discovery      
-SpanNER: Named Entity Re-/Recognition as Span Prediction     
+SpanNER: Named Entity Re-/Recognition as Span Prediction     :heavy_check_mark:
 AdvPicker: Effectively Leveraging Unlabeled Data via Adversarial Discriminator for Cross-Lingual NER     
 A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization      
 Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning     
@@ -116,3 +116,5 @@ Exploring Cross-sentence Contexts for Named Entity Recognition with BERT
 Neural Language Modeling for Named Entity Recognition      
 Merge and Recognize: A Geometry and 2D Context Aware Graph Model for Named Entity Recognition from Visual Documents      
 A Semi-Supervised BERT Approach for Arabic Named Entity Recognition      
+## 其他
+few-shot named entity recognition: a comprehensive study
