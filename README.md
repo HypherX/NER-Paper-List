@@ -1,8 +1,4 @@
-# NER-Paper-List
-因为个人近期想要研究一下few-shot NER，故将近年NER论文列表整理并分成few-shot和其他，还包含一些鲁棒性相关的文章（随缘看到的就会补进来）。
-## Robust NLP
-Measure and Improve Robustness in NLP Models: A Survey    
-Meta Learning for Natural Language Processing: A Survey    
+# NER-Paper-List  
 ## ACL 2022
 ### few-shot NER
 CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning     
@@ -10,7 +6,7 @@ Few-Shot Class-Incremental Learning for Named Entity Recognition
 Few-shot Named Entity Recognition with Self-describing Networks       
 Decomposed Meta-Learning for Few-Shot Named Entity Recognition       
 Label Semantics for Few Shot Named Entity Recognition       
-### others
+### 其他
 An Unsupervised Multiple-Task and Multiple-Teacher Model for Cross-lingual Named Entity Recognition       
 Bottom-Up Constituency Parsing and Nested Named Entity Recognition with Pointer Networks          
 Boundary Smoothing for Named Entity Recognition        
@@ -35,7 +31,7 @@ RGL: A Simple yet Effective Relation Graph Augmented Prompt-based Tuning Approac
 LiST: Lite Prompted Self-training Makes Efficient Few-shot Learners     
 Improving In-Context Few-Shot Learning via Self-Supervised Training     
 Few-Shot Self-Rationalization with Natural Language Prompts
-### others
+### 其他
 Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting       
 Sentence-Level Resampling for Named Entity Recognition   
 Hero-Gang Neural Model For Named Entity Recognition    
@@ -51,7 +47,7 @@ Named Entity Recognition with Small Strongly Labeled and Large Weakly Labeled Da
 Leveraging Type Descriptions for Zero-shot Named Entity Recognition and Classification     
 Learning from Miscellaneous Other-Class Words for Few-shot Named Entity Recognition     
 Few-NERD: A Few-shot Named Entity Recognition Dataset      
-### others
+### 其他
 Enhancing Entity Boundary Detection for Better Chinese Named Entity Recognition     
 Improving Model Generalization: A Chinese Named Entity Recognition Case Study      
 Toward Fully Exploiting Heterogeneous Corpus: A Decoupled Named Entity Recognition Model with Two-stage Training    
@@ -82,7 +78,7 @@ Few-Shot Named Entity Recognition: An Empirical Baseline Study
 RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models     
 Unsupervised Paraphrasing Consistency Training for Low Resource Named Entity Recognition    
 Learning from Language Description: Low-shot Named Entity Recognition via Decomposed Framework       
-### others
+### 其他
 ChemNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision     
 TEBNER: Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network    
 Data Augmentation for Cross-Domain Named Entity Recognition     
@@ -91,9 +87,7 @@ Improving Distantly-Supervised Named Entity Recognition with Self-Collaborative 
 CNNBiF: CNN-based Bigram Features for Named Entity Recognition     
 Towards Realistic Single-Task Continuous Learning Research for NER      
 ## NAACL 2021
-### few-shot NER
-no papers
-### others
+### 其他
 TaxoClass: Hierarchical Multi-Label Text Classification Using Only Class Names     
 PhoNLP: A joint multi-task learning model for Vietnamese part-of-speech tagging, named entity recognition and dependency parsing     
 Noise Robust Named Entity Understanding for Voice Assistants     
@@ -105,7 +99,7 @@ Multi-Grained Knowledge Distillation for Named Entity Recognition
 ## COLING 2020
 ### few-shot NER
 MZET: Memory Augmented Zero-Shot Fine-grained Named Entity TypingMZET     
-### others
+### 其他
 AN ANALYSIS OF SIMPLE DATA AUGMENTATION FOR NAMED ENTITY RECOGNITION     
 DAN+: DANISH NESTED NAMED ENTITIES AND LEXICAL NORMALIZATION     
 EVALUATING PRETRAINED TRANSFORMER-BASED MODELS ON THE TASK OF FINE-GRAINED NAMED ENTITY RECOGNITION     
@@ -116,5 +110,3 @@ Exploring Cross-sentence Contexts for Named Entity Recognition with BERT
 Neural Language Modeling for Named Entity Recognition      
 Merge and Recognize: A Geometry and 2D Context Aware Graph Model for Named Entity Recognition from Visual Documents      
 A Semi-Supervised BERT Approach for Arabic Named Entity Recognition      
-## 其他
-few-shot named entity recognition: a comprehensive study
